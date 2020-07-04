@@ -1,6 +1,6 @@
 {
     "randomize" : true,
-    "admob_banner_enable" : false,
+    "admob_banner_enable" : true,
     "admob_inter_enable" : true,
     "fb_banner_enable" : false,
     "fb_native_banner_enable" : false,
@@ -8,6 +8,8 @@
     "ad_unit_saver_i": "ca-app-pub-3940256099942544/1033173712",
     "ad_unit_video_i": "ca-app-pub-3940256099942544/1033173712",
     "ad_unit_photo_i": "ca-app-pub-3940256099942544/1033173712",
-    "ad_unit_player_i": "ca-app-pub-3940256099942544/1033173712"
+    "ad_unit_player_i": "ca-app-pub-3940256099942544/1033173712",
+    "ad_unit_banner": "ca-app-pub-3940256099942544/6300978111",
+    "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "ca-app-pub-3940256099942544/1033173712"
     
 }
