@@ -1,8 +1,9 @@
 {
+    "randomize" : true,
     "admob_banner_enable" : true,
-    "admob_inter_enable" : false,
+    "admob_inter_enable" : true,
     "fb_banner_enable" : false,
     "fb_native_banner_enable" : true,
-    "fb_inter_enable" : true
+    "fb_inter_enable" : false
     
 }
