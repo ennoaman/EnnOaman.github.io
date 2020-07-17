@@ -9,7 +9,7 @@
     "updatePACKAGENAME" : "com.shadiapps.dfrontar",
     "updateDIRECTLINK" : false,
     "showfbadsnative" : false,
-    "showfbadsbanner" : false,
+    "showfbadsbanner" : true,
     "showfbadsnativebanner" : false,
     "showfbadsinter" : false,
     "FACEBOOK_ADS_NATIVE_PLACEMENT_ID": "475092226386973_475092906386905",
