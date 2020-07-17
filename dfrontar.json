@@ -18,9 +18,9 @@
     "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "475092226386973_699991280563732",
     "FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID": "475092226386973_475093663053496",
     "linesbeetweenads" : 9,
-    "player_update" : false,
-    "player_package" : "",
-    "player_direct_download" : ""
+    "player_update" : true,
+    "player_package" : "air.com.lunime.gachaclub",
+    "player_direct_download" : false
     
     
 }
