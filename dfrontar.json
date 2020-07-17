@@ -4,10 +4,10 @@
     "BASE_URL" : "http://drama3sk.com/asiantvAPIV2/",
     "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
     "packagename" : "",
-    "updatable" : false,
+    "update_active" : false,
     "updateTITLE" : "TEST",
     "updateMSG" : "TEST",
-    "updatePACKAGENAME" : "mega.privacy.android.app",
+    "updatePACKAGENAME" : "com.shadiapps.dfrontar",
     "updateDIRECTLINK" : false,
     "showfbadsnative" : false,
     "showfbadsbanner" : false,
@@ -19,7 +19,7 @@
     "FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID": "475092226386973_475093663053496",
     "linesbeetweenads" : 9,
     "player_update" : true,
-    "player_package" : "air.com.lunime.gachaclub",
+    "player_package" : "com.specialplayer.frontplay",
     "player_direct_download" : false
     
     
