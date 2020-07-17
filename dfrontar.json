@@ -8,7 +8,7 @@
     "updateTITLE" : "TEST",
     "updateMSG" : "TEST",
     "updatePACKAGENAME" : "air.com.lunime.gachaclub",
-    "updateDIRECTLINK" : "",
+    "updateDIRECTLINK" : true,
     "showfbadsnative" : false,
     "showfbadsbanner" : false,
     "showfbadsnativebanner" : false,
