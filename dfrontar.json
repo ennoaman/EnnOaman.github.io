@@ -13,7 +13,7 @@
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "358050171465497_561636414440204",
     "FACEBOOK_ADS_INTERS_PLACEMENT_ID": "358050171465497_358051364798711",
     "FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID": "358050171465497_358050691465445",
-    "linesbeetweenads" : "true",
+    "linesbeetweenads" : 6,
     "player_update" : false,
     "player_package" : "",
     "player_direct_download" : ""
