@@ -4,7 +4,7 @@
     "BASE_URL" : "http://drama3sk.com/asiantvAPIV2/",
     "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
     "packagename" : "",
-    "updatable" : true,
+    "updatable" : false,
     "updateTITLE" : "TEST",
     "updateMSG" : "TEST",
     "updatePACKAGENAME" : "mega.privacy.android.app",
