@@ -1,10 +1,10 @@
 
 {
-    "codeversion" : 1,
+    "codeversion" : 4,
     "BASE_URL" : "http://drama3sk.com/asiantvAPIV2/",
     "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
-    "packagename" : "",
-    "update_active" : false,
+    "packagename" : "com.shadiapps.dfrontar",
+    "update_active" : true,
     "updateTITLE" : "TEST",
     "updateMSG" : "TEST",
     "updatePACKAGENAME" : "com.shadiapps.dfrontar",
