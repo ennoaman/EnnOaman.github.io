@@ -9,7 +9,7 @@
     "updatePACKAGENAME" : "com.shadiapps.dfrontar",
     "updateDIRECTLINK" : false,
     "showfbadsnative" : false,
-    "showfbadsbanner" : true,
+    "showfbadsbanner" : false,
     "showfbadsnativebanner" : false,
     "showfbadsinter" : false,
     "FACEBOOK_ADS_NATIVE_PLACEMENT_ID": "475092226386973_475092906386905",
@@ -20,7 +20,7 @@
     "player_update" : false,
     "player_package" : "com.specialplayer.frontplay",
     "player_direct_download" : false,
-    "enable_unity_ads" : true,
+    "enable_unity_ads" : false,
     "UNITY_GAME_ID" : "3718345",
     "UNITY_INTER_ID" : "video",
     "FB_GRP" : "https://www.facebook.com/groups/485098355586737/"
