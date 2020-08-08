@@ -20,7 +20,7 @@
     "player_update" : false,
     "player_package" : "com.specialplayer.frontplay",
     "player_direct_download" : false,
-    "enable_unity_ads" : false,
+    "enable_unity_ads" : true,
     "UNITY_GAME_ID" : "3718345",
     "UNITY_INTER_ID" : "video",
     "FB_GRP" : "https://www.facebook.com/groups/485098355586737/"
