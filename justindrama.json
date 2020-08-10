@@ -1,6 +1,6 @@
 
 [
-    "0" : {
+    {
     "codeversion" : 1,
     "BASE_URL" : "http://www.drama3sk.com/dramacoolApi/",
     "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
@@ -25,7 +25,5 @@
     "UNITY_GAME_ID" : "3757823",
     "UNITY_INTER_ID" : "video",
     "FB_GRP" : "www.facebook.com/groups/justindrama/"
-    
-    
     }
 ]
