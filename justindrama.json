@@ -1,5 +1,6 @@
 
-{
+[
+    {
     "codeversion" : 1,
     "BASE_URL" : "http://www.drama3sk.com/dramacoolApi/",
     "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
@@ -26,4 +27,5 @@
     "FB_GRP" : "www.facebook.com/groups/justindrama/"
     
     
-}
+    }
+]
