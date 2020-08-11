@@ -1,6 +1,7 @@
 {
     "codeversion" : 1,
     "options" : ["KDRAMAEN","KDRAMAAR"],    
+    "options_base_urls" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/asiantvAPIV2/"],    
     "BASE_URL" : "http://www.drama3sk.com/dramacoolApi/",
     "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
     "update_active" : false,
