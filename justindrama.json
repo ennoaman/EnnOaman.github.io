@@ -1,6 +1,4 @@
-
-[
-    {
+{
     "codeversion" : 1,
     "options" : ["KDRAMAEN","KDRAMAAR"],    
     "BASE_URL" : "http://www.drama3sk.com/dramacoolApi/",
@@ -26,5 +24,4 @@
     "UNITY_GAME_ID" : "3757823",
     "UNITY_INTER_ID" : "video",
     "FB_GRP" : "www.facebook.com/groups/justindrama/"
-    }
-]
+}
