@@ -1,13 +1,11 @@
 {
     "codeversion" : 1,
-    "options" : ["KDRAMAEN","KDRAMAAR"],    
-    "options_base_apis" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/asiantvAPIV2/"],
-    "options_base_dbs" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],    
-    "BASE_URL" : "http://www.drama3sk.com/dramacoolApi/",
-    "BASE_API" : "http://drama3sk.com/appbase/daskapp/public_html/api/",
+    "options" : ["KDRAMAEN","KDRAMAAR"],
+    "BASE_URL" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/asiantvAPIV2/"],
+    "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],   
     "update_active" : false,
-    "updateTITLE" : "JustInDrma - New Version",
-    "updateMSG" : "Please Install the NEW VERSION",
+    "updateTITLE" : ["JustInDrma - New Version","JustInDrma - New Version"],
+    "updateMSG" : ["Please Install the NEW VERSION","Please Install the NEW VERSION"],
     "updatePACKAGENAME" : "https://d-23.winudf.com/b/APK/ZHJvb20uc2xlZXBJZlVDYW5fNDI1MDhfOWZmM2E3OTU?_fn=QWxhcm0gQ2xvY2sgd2l0aCBMb3VkIE1pc3Npb24gQWxhcm1zIEFsYXJteV92NC4yNS44X2Fwa3B1cmUuY29tLmFwaw&_p=ZHJvb20uc2xlZXBJZlVDYW4&am=mRV1EAkDx1ypmfFaAlznPg&at=1597030547&k=0bf0dc6d4b4a3f1fed7cc3b64a60a8c05f321215",
     "updateDIRECTLINK" : true,
     "showfbadsnative" : false,
@@ -25,5 +23,5 @@
     "enable_unity_ads" : false,
     "UNITY_GAME_ID" : "3757823",
     "UNITY_INTER_ID" : "video",
-    "FB_GRP" : "www.facebook.com/groups/justindrama/"
+    "FB_GRP" : ["www.facebook.com/groups/justindrama/","www.facebook.com/groups/justindrama/"]
 }
