@@ -19,7 +19,7 @@
     "FACEBOOK_ADS_NATIVE_BANNER_PLACEMENT_ID": "314677332705921_314987092674945",
     "linesbeetweenads" : 9,
     "player_update" : true,
-    "player_package" : "com.specialplayer.frontplay",
+    "player_package" : "com.specialplayer.jisplay",
     "player_direct_download" : false,
     "enable_unity_ads" : false,
     "UNITY_GAME_ID" : "3757823",
