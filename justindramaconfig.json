@@ -3,7 +3,7 @@
     "options" : ["English Subtitles","ترجمة بالعربي"],
     "BASE_URL" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/justindramaarabic/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],
-    "FIREBASE_SUBS" : ["justindrama","justindramaar"],   
+    "FIREBASE_SUBS" : ["justindramaen","justindramaar"],   
     "update_active" : false,
     "updateTITLE" : "JustIn Drama - New Version",
     "updateMSG" : "Please Install NEW VERSION",
