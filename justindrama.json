@@ -4,7 +4,7 @@
     "BASE_URL" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/asiantvAPIV2/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["justindrama","justindramaar"],   
-    "update_active" : false,
+    "update_active" : true,
     "updateTITLE" : "JustInDrma - New Version",
     "updateMSG" : "Please Install NEW VERSION",
     "updatePACKAGENAME" : "",
