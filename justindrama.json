@@ -7,7 +7,7 @@
     "update_active" : true,
     "updateTITLE" : "JustInDrma - New Version",
     "updateMSG" : "Please Install NEW VERSION",
-    "updatePACKAGENAME" : "",
+    "updatePACKAGENAME" : "com.justinapps.justindrama",
     "updateDIRECTLINK" : false,
     "showfbadsnative" : true,
     "showfbadsbanner" : true,
