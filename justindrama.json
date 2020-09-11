@@ -1,5 +1,5 @@
 {
-    "codeversion" : 1,
+    "codeversion" : 2,
     "options" : ["English Subtitles","ترجمة بالعربي"],
     "BASE_URL" : ["http://www.drama3sk.com/dramacoolApiV2/","http://www.drama3sk.com/asiantvAPIV3/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],
