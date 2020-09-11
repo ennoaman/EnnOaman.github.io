@@ -1,7 +1,7 @@
 {
     "codeversion" : 2,
     "options" : ["English Subtitles","ترجمة بالعربي"],
-    "BASE_URL" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/jusindramaarabic/"],
+    "BASE_URL" : ["http://www.drama3sk.com/dramacoolApi/","http://www.drama3sk.com/justindramaarabic/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["justindrama","justindramaar"],   
     "update_active" : false,
