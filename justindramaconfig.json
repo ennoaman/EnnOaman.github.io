@@ -25,7 +25,7 @@
     "UNITY_GAME_ID" : "3757823",
     "UNITY_INTER_ID" : "video",
     "FB_GRP" : ["https://www.facebook.com/groups/justindrama/","https://www.facebook.com/groups/485098355586737/"],
-    "USEINPLAYER" : [true,false],
+    "USEINPLAYER" : [false,false],
     "player_fb_banner_enable" : false,
     "player_fb_inter_enable":false,
     "player_fb_native_banner_enable" : false,
