@@ -18,5 +18,5 @@
     "updateMSG" : "Please Install NEW VERSION",
     "updatePACKAGENAME" : "com.dts.freefireth",
     "updateDIRECTLINK" : "false",
-    "force_update": "false"  
+    "force_update": "true"  
 }
