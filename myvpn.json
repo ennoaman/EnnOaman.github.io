@@ -1,7 +1,7 @@
 {
     "randomize" : "true",
     "admob_only" : "false",
-    "fb_only" : "false",
+    "fb_only" : "true",
     "admob_banner_enable" : "true",
     "admob_inter_enable" : "true",
     "ad_unit_inter": "ca-app-pub-6561847712471614/5378881623",
