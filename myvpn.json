@@ -13,7 +13,7 @@
     "FACEBOOK_ADS_NATIVE_BANNER_ID": "671828370209790_690938434965450",
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "",
     "interstitial_step":"2",
-    "update_active" : "true",
+    "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
     "updateMSG" : "Please Install NEW VERSION",
     "updatePACKAGENAME" : "com.dts.freefireth",
