@@ -19,5 +19,5 @@
     "updatePACKAGENAME" : "com.dts.freefireth",
     "updateDIRECTLINK" : "false",
     "force_update": "false",
-    "Disable":"false"
+    "Disable":"true"
 }
