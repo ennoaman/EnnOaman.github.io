@@ -1,6 +1,6 @@
 {
     "codeversion" : 2,
-    "options" : ["English Subtitles","ترجمة بالعربي"],
+    "options" : ["ترجمة بالعربي"],
     "BASE_URL" : ["http://www.drama3sk.com/3skturkish/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["turkishdrama"],   
