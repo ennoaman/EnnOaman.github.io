@@ -26,7 +26,7 @@
     "player_fb_banner_enable" : false,
     "player_fb_inter_enable":false,
     "player_fb_native_banner_enable" : false,
-    "player_fb_rect_enable" : true,
+    "player_fb_rect_enable" : false,
     "FACEBOOK_ADS_PLAYER_BANNER_PLACEMENT_ID" : "",
     "FACEBOOK_ADS_PLAYER_NATIVE_BANNER_PLACEMENT_ID" : "",
     "FACEBOOK_ADS_PLAYER_INTERS_PLACEMENT_ID" : "",
