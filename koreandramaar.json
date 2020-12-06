@@ -1,5 +1,5 @@
 {
-    "codeversion" : 4,
+    "codeversion" : 3,
     "options" : ["ترجمة بالعربي"],
     "BASE_URL" : ["http://www.drama3sk.com/koreandrama/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/"],
