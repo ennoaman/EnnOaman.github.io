@@ -1,6 +1,6 @@
 {
     "empty" : "false",
-    "randomize" : "false",
+    "randomize" : "true",
     "admob_banner_enable" : "false",
     "admob_inter_enable" : "false",
     "fb_banner_enable" : "false",
