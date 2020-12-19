@@ -1,7 +1,7 @@
 {
     "codeversion" : 8,
     "options" : ["مسلسلات تركية","مسلسلات كورية"],
-    "BASE_URL" : ["http://www.drama3sk.com/3skturkish/","https://www.drama3sk.com/koreandrama/"],
+    "BASE_URL" : ["http://www.drama3sk.com/3skturkish/","https://www.drama3sk.com/koreandrama2/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/","http://drama3sk.com/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["turkishdrama","koreandrama"],   
     "update_active" : false,
