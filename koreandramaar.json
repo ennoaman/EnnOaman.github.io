@@ -1,10 +1,10 @@
 {
-    "codeversion" : 3,
+    "codeversion" : 4,
     "options" : ["ترجمة بالعربي"],
     "BASE_URL" : ["http://www.drama3sk.com/koreandramaV/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["koreandrama"],   
-    "update_active" : false,
+    "update_active" : true,
     "updateTITLE" : "النسخة الجديدة من تطبيق الدراما الكوربة",
     "updateMSG" : "تم خذف النسخة القديمة  المرجو تحميل النسخة الجديدة",
     "updatePACKAGENAME" : "com.specialplayer.frontplay",
