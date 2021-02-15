@@ -2,7 +2,7 @@
     "close": false,
     "codeversion" : 4,
     "options" : ["ترجمة بالعربي"],
-    "BASE_URL" : ["http://www.drama3sk.com/watched/"],
+    "BASE_URL" : ["http://www.drama3sk.com/watchedV/"],
     "BASE_API" : ["http://drama3sk.com/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["koreandrama"],   
     "update_active" : false,
