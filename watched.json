@@ -1,7 +1,7 @@
 {
     "close": false,
     "codeversion" : 4,
-    "options" : ["ترجمة بالعربي"],
+    "options" : ["English"],
     "BASE_URL" : ["https://cafestoscaf.ma/dramacoolApi/"],
     "BASE_API" : ["https://cafestoscaf.ma/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["koreandrama"],   
