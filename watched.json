@@ -2,7 +2,7 @@
     "close": false,
     "codeversion" : 4,
     "options" : ["English"],
-    "BASE_URL" : ["https://cafestoscaf.ma/dramacoolApi/"],
+    "BASE_URL" : ["https://cafestoscaf.ma/watched/"],
     "BASE_API" : ["https://cafestoscaf.ma/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["koreandrama"],   
     "update_active" : false,
