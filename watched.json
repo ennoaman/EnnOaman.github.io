@@ -4,6 +4,8 @@
     "options" : ["English"],
     "BASE_URL" : ["https://cafestoscaf.ma/watched/"],
     "EPISODES_BASE_URL" : "https://ww1.123moviesfree.net/tv-series/",
+    "SERIES_BASE_URL" : "https://ww1.123moviesfree.net/top-imdb/series",
+    "MOVIES_BASE_URL" : "https://ww1.123moviesfree.net/movies/",
     "BASE_API" : ["https://cafestoscaf.ma/appbase/daskapp/public_html/api/"],
     "FIREBASE_SUBS" : ["koreandrama"],   
     "update_active" : false,
