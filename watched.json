@@ -1,6 +1,6 @@
 {
     "close": true,
-    "codeversion" : 4,
+    "codeversion" : 1,
     "options" : ["English"],
     "BASE_URL" : ["https://cafestoscaf.ma/watched/"],
     "BASE_API" : ["https://cafestoscaf.ma/appbase/daskapp/public_html/api/"],
