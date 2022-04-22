@@ -17,5 +17,5 @@
     "player_package" : "com.frontplay.jinplayer",
     "player_direct_download" : false,
     "FB_GRP" : ["https://www.facebook.com/groups/485098355586737/"],
-    "USEINPLAYER" : [true]
+    "USEINPLAYER" : "true"
 }
