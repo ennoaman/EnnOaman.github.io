@@ -2,7 +2,7 @@
     "close": "true",
     "CurrentVersionCode" : "1",
     "options" : "English",
-    "BASE_URL" : "https://ww1.123moviesfree.net/",
+    "BASE_URL" : "https://ww1.123moviesfree.net",
     "EPISODES_BASE_URL" : "https://ww1.123moviesfree.net/tv-series/",
     "SERIES_BASE_URL" : "https://ww1.123moviesfree.net/top-imdb/series/",
     "MOVIES_BASE_URL" : "https://ww1.123moviesfree.net/movies/",
