@@ -20,6 +20,6 @@
     "serieslist" :"{ \"serie\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "movieslist" :"{ \"movie\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "getEpisode" :"{ \"serieName\" : \".mvic-desc h3\" ,  \"serverAX\" : \"#server-ax .les-content\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
-    "getSerie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".mvi-content .desc\", \"serieData\" : \".mvic-info p\",   \"serverAX\" : \"#server-ax .les-content\"}",
+    "getSerie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".mvi-content .desc\", \"serieData\" : \".mvic-info p\", \"serieDataKey\" : \"strong\", \"serieDataVal\" : \"a\",  \"serverAX\" : \"#server-ax .les-content\"}",
     "getMovie" :"{ \"movie\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }"
 }
