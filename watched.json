@@ -15,5 +15,6 @@
     "player_update" : "false",
     "player_package" : "com.frontplay.jinplayer",
     "player_direct_download" : "false",
-    "USEINPLAYER" : "false"
+    "USEINPLAYER" : "false",
+    "episodeslist" :"{ \"type\" : \"class\" ,  \"val\" : \"movies-list movies-list-full\",  \"index\" : \"0\" }"
 }
