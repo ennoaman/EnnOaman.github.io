@@ -16,5 +16,5 @@
     "player_package" : "com.frontplay.jinplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "false",
-    "episodeslist" :"{ \"type\" : \"class\" ,  \"val\" : \"movies-list movies-list-full\",  \"index\" : \"0\" }"
+    "episodeslist" :"{ \"episode\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\",  \"serie_name\" : \".mli-info h2\",  \"number\" : \".mli-eps i\",  \"url\" : \"a[href]\",  \"poster\" : \"img\" }"
 }
