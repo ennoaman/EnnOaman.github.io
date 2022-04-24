@@ -1,5 +1,8 @@
 {
     "close": "true",
+    "max_only" : "true",
+    "max_inter_enable" : "true",
+    "max_inter_id": "c29c550e8f2e6682",
     "CurrentVersionCode" : "1",
     "options" : "English",
     "BASE_URL" : "https://ww1.123moviesfree.net",
