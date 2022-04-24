@@ -1,5 +1,4 @@
 {
-    "close": "true",
     "max_only" : "false",
     "max_inter_enable" : "true",
     "max_inter_id": "c29c550e8f2e6682",
@@ -9,7 +8,7 @@
     "EPISODES_BASE_URL" : "https://ww1.123moviesfree.net/tv-series/",
     "SERIES_BASE_URL" : "https://ww1.123moviesfree.net/top-imdb/series/",
     "MOVIES_BASE_URL" : "https://ww1.123moviesfree.net/movies/",
-    "FIREBASE_SUBS" : ["playgeh"],   
+    "FIREBASE_SUBS" : "playgeh",   
     "update_active" : "true",
     "updateTITLE" : "النسخة الجديدة من تطبيق الدراما الكوربة",
     "updateMSG" : "تم خذف النسخة القديمة  المرجو تحميل النسخة الجديدة",
