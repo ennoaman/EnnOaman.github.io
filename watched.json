@@ -1,5 +1,5 @@
 {
-    "close" : "true",
+    "close" : "false",
     "max_only" : "false",
     "max_inter_enable" : "true",
     "max_inter_id": "c29c550e8f2e6682",
